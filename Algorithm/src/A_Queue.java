@@ -2,13 +2,11 @@
 public class A_Queue {
 
 	int[] data;
-
 	int last;
 	
 	public A_Queue(int length)
 	{
 		data=new int[length];
-	
 		last=0;
 	}
 	
