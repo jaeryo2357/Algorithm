@@ -21,6 +21,7 @@ public class q9498 {
 			System.out.println("D");
 		else
 			System.out.println("F");
+		scanner.close();
 	}
-
+	
 }

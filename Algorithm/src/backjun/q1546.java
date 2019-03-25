@@ -26,8 +26,9 @@ public class q1546 {
 			Scroe[i]=(Scroe[i]/Scroe[Scroe.length-1])*100;
 			result+=Scroe[i];
 		}
-		System.out.println(Arrays.toString(Scroe));
+	
 		System.out.printf("%f",result/N);
+		scanner.close();
 	}
 
 }
