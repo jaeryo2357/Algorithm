@@ -9,7 +9,7 @@ public class mergeSort {
 	public static void mergeSort(String a[],int start,int end)
 	{
 		if(start==end)return;
-		int middle=start+end/2;
+		int middle=(start+end)/2;
 		mergeSort(a,start,middle);
 		mergeSort(a,middle+1,end);
 		merge(a,start,middle,end);
@@ -17,12 +17,12 @@ public class mergeSort {
 	
 	public static void merge(String a[],int start,int middle,int end)
 	{
-		if(start==end)return;
-		int length=end-start+1;
+		int length=end-start+1; //temp배열의 길이
 		String[] temp=new String[length];
 		int tempIndex=0;
 		int i=start;
 		int j=middle+1;
+		
 		while(j<=end&&i<=middle)
 		{
 			if((a[i].compareTo(a[j])<0)) {
