@@ -20,15 +20,13 @@ public class q1929 {
 
     public static void eratos(int start, int end) {
         boolean[] ranges = new boolean[end]; //기본값 false
+        ranges[0] = true;
 
-        for (int t = 1; t <= end; t++) {
+        for (int t = 2; t * t <= end; t++) {
             if (ranges[t - 1]) {
                 continue;
             }
-            if (t == 1) {
-                ranges[t - 1] = true;
-                continue;
-            }
+
             for (int i = t + t; i <= end; i += t) {
                 if (i % t == 0) {
                     ranges[i - 1] = true;
