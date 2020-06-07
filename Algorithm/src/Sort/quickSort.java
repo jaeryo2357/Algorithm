@@ -2,15 +2,15 @@ package Sort;
 
 public class quickSort {
 
-	
+
 	public static void swap(String a[],int i,int j)
 	{
 		String temp=a[i];
 		a[i]=a[j];
 		a[j]=temp;
 	}
-	
-	
+
+
 	public static int partion(String[] a,int start,int end)
 	{
 		String pivot=a[end];
