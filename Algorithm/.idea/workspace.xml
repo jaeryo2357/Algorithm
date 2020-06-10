@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/q1181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/q10814.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -41,17 +41,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/q1181.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#515#516#0" expanded="true" />
                 <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#1301#1302#0" expanded="true" />
-                <element signature="e#1348#1349#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backjun/q10814.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/backjun/q5543.java" />
         <option value="$PROJECT_DIR$/src/backjun/q2523.java" />
         <option value="$PROJECT_DIR$/src/backjun/q2446.java" />
         <option value="$PROJECT_DIR$/src/backjun/q10996.java" />
@@ -129,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/backjun/q11650.java" />
         <option value="$PROJECT_DIR$/src/backjun/q11651.java" />
         <option value="$PROJECT_DIR$/src/backjun/q1181.java" />
+        <option value="$PROJECT_DIR$/src/backjun/q10814.java" />
       </list>
     </option>
   </component>
@@ -177,7 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591758155172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591758604550" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -192,9 +201,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q1181">
-    <configuration name="q10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.q10989" />
+  <component name="RunManager" selected="Application.q10814">
+    <configuration name="q10814" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.q10814" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -260,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q10814" />
         <item itemvalue="Application.q1181" />
         <item itemvalue="Application.q11651" />
         <item itemvalue="Application.q11650" />
         <item itemvalue="Application.q2108" />
-        <item itemvalue="Application.q10989" />
       </list>
     </recent_temporary>
   </component>
@@ -303,13 +312,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7342282" visible="true" weight="0.13900709" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7342282" weight="0.04255319" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.46107382" weight="0.12907802" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2657718" side_tool="true" visible="true" weight="0.13900709" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4604027" visible="true" weight="0.12907802" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.53959733" side_tool="true" visible="true" weight="0.12907802" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,13 +332,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backjun/q2446.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="40" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/q10996.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -693,14 +695,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/q1181.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
             <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-            <element signature="e#1348#1349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/q10814.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
