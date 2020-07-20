@@ -108,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/backjun/q1931.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="42" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="685" />
     <option name="y" value="1" />
     <option name="width" value="1943" />
@@ -231,7 +231,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595229076830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595229132377" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -345,25 +345,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="548" y="1" width="1554" height="882" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7464455" visible="true" weight="0.15662651" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74623114" visible="true" weight="0.15704697" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.2535545" side_tool="true" visible="true" weight="0.15662651" />
+      <window_info id="Structure" order="5" sideWeight="0.25376883" side_tool="true" visible="true" weight="0.15704697" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71610737" weight="0.17872341" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7154362" weight="0.6212766" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.42503348" visible="true" weight="0.43658212" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.57496655" side_tool="true" visible="true" weight="0.43658212" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.42416108" visible="true" weight="0.43546098" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5758389" side_tool="true" visible="true" weight="0.43546098" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49933067" weight="0.32977304" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -774,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/q1931.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

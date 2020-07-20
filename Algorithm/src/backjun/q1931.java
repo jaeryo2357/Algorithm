@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
 
+
+//기수정렬
 public class q1931 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
