@@ -1,5 +1,5 @@
 
-package Sort;
+package sort;
 
 class t2 {
     public int solution(String command, String[] buttons, int[] scores) {

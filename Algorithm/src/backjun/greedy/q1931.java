@@ -1,4 +1,4 @@
-package backjun;
+package backjun.greedy;
 
 import java.util.ArrayList;
 import java.util.Comparator;

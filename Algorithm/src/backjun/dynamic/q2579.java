@@ -1,4 +1,4 @@
-package backjun;
+package backjun.dynamic;
 
 import java.util.Scanner;
 

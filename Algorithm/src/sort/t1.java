@@ -1,4 +1,4 @@
-package Sort;
+package sort;
 
 class t1 {
     public int solution(int[][] board) {
