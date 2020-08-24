@@ -1,4 +1,4 @@
-package backjun;
+package backjun.queue;
 
 import java.io.*;
 import java.util.ArrayDeque;

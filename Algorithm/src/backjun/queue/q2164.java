@@ -1,4 +1,4 @@
-package backjun;
+package backjun.queue;
 
 import java.util.LinkedList;
 import java.util.Scanner;
