@@ -1,8 +1,8 @@
 package backjun.queue;
 
 import java.util.LinkedList;
-import java.util.Collections;
-import java.util.Scanner;
+        import java.util.Collections;
+        import java.util.Scanner;
 
 public class q5430 {
     public static void main(String[] args) {
