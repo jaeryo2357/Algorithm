@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/division/q2740.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/division/q10830.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -17,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backjun/division/q1708.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/brande/p1exam4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,11 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/division/q2740.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="304">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backjun/division/q10830.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -135,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/backjun/q5086.java" />
         <option value="$PROJECT_DIR$/src/backjun/q1037.java" />
         <option value="$PROJECT_DIR$/src/backjun/q11653.java" />
         <option value="$PROJECT_DIR$/src/backjun/q2609.java" />
@@ -186,14 +182,15 @@
         <option value="$PROJECT_DIR$/src/backjun/division/q1629.java" />
         <option value="$PROJECT_DIR$/src/backjun/division/q11401.java" />
         <option value="$PROJECT_DIR$/src/backjun/division/q2740.java" />
+        <option value="$PROJECT_DIR$/src/backjun/division/q10830.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="262" />
-    <option name="y" value="110" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="525" />
+    <option name="y" value="-18" />
     <option name="width" value="1943" />
-    <option name="height" value="1103" />
+    <option name="height" value="1102" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,10 +240,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598937015982" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599026057533" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -271,13 +268,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q2740">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="brande.p1exam4.Main" />
+  <component name="RunManager" selected="Application.q10830">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="brande.p1exam3.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="brande.p1exam4.*" />
+          <option name="PATTERN" value="brande.p1exam3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="brande.p1exam3.Main" />
+    <configuration name="q10830" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.division.q10830" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="brande.p1exam3.*" />
+          <option name="PATTERN" value="backjun.division.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q10830" />
         <item itemvalue="Application.q2740" />
         <item itemvalue="Application.q11401" />
         <item itemvalue="Application.q1629" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -370,10 +367,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="698" width="1554" height="882" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.16532798" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.16778524" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -382,15 +379,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.24585636" side_tool="true" weight="0.1852349" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6900937" visible="true" weight="0.45393857" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49129853" weight="0.18157543" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.68791944" visible="true" weight="0.06241135" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.490604" weight="0.6042553" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3099063" side_tool="true" visible="true" weight="0.45393857" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.394913" weight="0.7810414" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.31208053" side_tool="true" visible="true" weight="0.06241135" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39395973" weight="0.6666667" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986613" weight="0.32977304" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49799198" weight="0.5126836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -414,16 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backjun/q1062.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/queue/q11866.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -803,6 +790,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/division/q11401.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/division/q2630.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -831,17 +825,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjun/division/q11401.java">
+    <entry file="file://$PROJECT_DIR$/src/backjun/division/q2740.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="304">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjun/division/q2740.java">
+    <entry file="file://$PROJECT_DIR$/src/backjun/division/q10830.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="1083">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
