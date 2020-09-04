@@ -1,4 +1,4 @@
-package backjun.binary;
+package backjun.binaryseach;
 
 import java.util.Arrays;
 import java.util.Scanner;
