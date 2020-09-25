@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/bruteforce/q3085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/bruteforce/q10448.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kakao/p2020/p2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/binaryseach/q1654.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +80,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/bruteforce/q3085.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+            <state relative-caret-position="532">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backjun/bruteforce/q10448.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/backjun/q11399.java" />
         <option value="$PROJECT_DIR$/src/backjun/q12865.java" />
         <option value="$PROJECT_DIR$/src/backjun/q9251.java" />
         <option value="$PROJECT_DIR$/src/backjun/q11054.java" />
@@ -192,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/backjun/binaryseach/q1300.java" />
         <option value="$PROJECT_DIR$/src/backjun/bruteforce/q2309.java" />
         <option value="$PROJECT_DIR$/src/backjun/bruteforce/q3085.java" />
+        <option value="$PROJECT_DIR$/src/backjun/bruteforce/q10448.java" />
       </list>
     </option>
   </component>
@@ -247,7 +250,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601011074966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601013525628" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -274,7 +277,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q3085">
+  <component name="RunManager" selected="Application.q10448">
+    <configuration name="q10448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.bruteforce.q10448" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.bruteforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q1300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.binaryseach.q1300" />
       <module name="Algorithm" />
@@ -314,19 +330,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2805" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.binaryseach.q2805" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.binaryseach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="q3085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.bruteforce.q3085" />
       <module name="Algorithm" />
@@ -342,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q10448" />
         <item itemvalue="Application.q3085" />
         <item itemvalue="Application.q2309" />
         <item itemvalue="Application.q1300" />
         <item itemvalue="Application.q2110" />
-        <item itemvalue="Application.q2805" />
       </list>
     </recent_temporary>
   </component>
@@ -385,13 +388,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.24585636" side_tool="true" weight="0.1852349" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.71428573" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.657047" weight="0.28936172" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4712182" visible="true" weight="0.2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.657047" visible="true" weight="0.20992908" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4712182" weight="0.5744681" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.34295303" side_tool="true" weight="0.16028368" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.38187918" weight="0.18723404" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.38187918" weight="0.08510638" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49732262" weight="0.5126836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -431,12 +434,6 @@
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/backjun/bruteforce/q3085.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -446,13 +443,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backjun/q2446.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q11054.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -815,8 +805,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/bruteforce/q3085.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+        <state relative-caret-position="532">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/bruteforce/q10448.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
