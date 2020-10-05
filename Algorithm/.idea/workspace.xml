@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/greedy/q13904.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/division/q2104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjun/q2439.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kakao/p2020/junior/p2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/bruteforce/q1182.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,21 +65,28 @@
         <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q11000.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q13904.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q13904.java">
+        <entry file="file://$PROJECT_DIR$/src/backjun/division/q2104.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-551">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -97,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q1700.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
+            <state relative-caret-position="475">
               <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -149,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/kakao/p2017/newsCluster.java" />
         <option value="$PROJECT_DIR$/src/backjun/queue/q1966.java" />
         <option value="$PROJECT_DIR$/src/backjun/queue/q10866.java" />
         <option value="$PROJECT_DIR$/src/kakao/p2018/block.java" />
@@ -200,12 +196,13 @@
         <option value="$PROJECT_DIR$/src/backjun/greedy/q11000.java" />
         <option value="$PROJECT_DIR$/src/backjun/greedy/q1700.java" />
         <option value="$PROJECT_DIR$/src/backjun/greedy/q13904.java" />
+        <option value="$PROJECT_DIR$/src/backjun/division/q2104.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="145" />
-    <option name="y" value="58" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="262" />
+    <option name="y" value="72" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
@@ -216,6 +213,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,6 +237,13 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="backjun" type="462c0819:PsiDirectoryNode" />
+              <item name="division" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backjun" type="462c0819:PsiDirectoryNode" />
               <item name="greedy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,11 +256,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601796186093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601886452695" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -283,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q13904">
+  <component name="RunManager" selected="Application.q2104">
     <configuration name="q11000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.greedy.q11000" />
       <module name="Algorithm" />
@@ -299,19 +303,6 @@
     </configuration>
     <configuration name="q13904" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.greedy.q13904" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q1449" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.greedy.q1449" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -349,13 +340,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q2104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.division.q2104" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.division.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q2104" />
         <item itemvalue="Application.q13904" />
         <item itemvalue="Application.q1700" />
         <item itemvalue="Application.q11000" />
         <item itemvalue="Application.q17509" />
-        <item itemvalue="Application.q1449" />
       </list>
     </recent_temporary>
   </component>
@@ -382,10 +386,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="94" y="5" width="1552" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.23190348" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.23557048" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -394,13 +398,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.24585636" side_tool="true" weight="0.1852349" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.71428573" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.657047" visible="true" weight="0.4413013" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6557047" visible="true" weight="0.47801417" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4712182" weight="0.61244696" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.34295303" side_tool="true" weight="0.16028368" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.38187918" weight="0.6619519" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3442953" side_tool="true" visible="true" weight="0.47801417" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.38069704" weight="0.14144272" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49732262" weight="0.5126836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -467,20 +471,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backjun/queue/q1021.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#2316#2317#0" expanded="true" />
-            <element signature="e#2362#2363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/queue/q5430.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -804,6 +794,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q11000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q1700.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/kakao/p2020/summer/p1/p3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -821,32 +828,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q1700.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q11000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/greedy/q13904.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="50" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/division/q2104.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="52" />
         </state>
       </provider>
     </entry>
