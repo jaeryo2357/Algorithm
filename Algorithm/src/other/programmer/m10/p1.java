@@ -1,4 +1,4 @@
-package other.programmer;
+package other.programmer.m10;
 
 public class p1 {
     public static void main(String[] args) {

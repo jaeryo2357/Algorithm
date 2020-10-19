@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/other/programmer/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/programmer/p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/programmer/p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/programmer/m9/p3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/programmer/p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/programmer/m10/p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/programmer/p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/programmer/m10/p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/programmer/p4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/programmer/m10/p4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,40 +48,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/programmer/p1.java">
+        <entry file="file://$PROJECT_DIR$/src/other/programmer/m10/p1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/programmer/m10/p3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="16" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/programmer/m10/p4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other/programmer/p2.java">
+        <entry file="file://$PROJECT_DIR$/src/other/programmer/m9/p3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/programmer/p3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/programmer/p4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="75" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="279">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -140,9 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/brande/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/backjun/division/q2630.java" />
-        <option value="$PROJECT_DIR$/src/backjun/division/q1992.java" />
         <option value="$PROJECT_DIR$/src/backjun/division/q1708.java" />
         <option value="$PROJECT_DIR$/src/backjun/division/q1629.java" />
         <option value="$PROJECT_DIR$/src/backjun/division/q11401.java" />
@@ -191,12 +189,15 @@
         <option value="$PROJECT_DIR$/src/other/programmer/p2.java" />
         <option value="$PROJECT_DIR$/src/other/programmer/p3.java" />
         <option value="$PROJECT_DIR$/src/other/programmer/p4.java" />
+        <option value="$PROJECT_DIR$/src/other/programmer/m9/p1.java" />
+        <option value="$PROJECT_DIR$/src/other/programmer/m10/p4.java" />
+        <option value="$PROJECT_DIR$/src/other/programmer/m9/p3.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="287" />
-    <option name="y" value="107" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="460" />
+    <option name="y" value="50" />
     <option name="width" value="1940" />
     <option name="height" value="1025" />
   </component>
@@ -206,7 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,19 +233,36 @@
               <item name="other" type="462c0819:PsiDirectoryNode" />
               <item name="programmer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="programmer" type="462c0819:PsiDirectoryNode" />
+              <item name="m9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="programmer" type="462c0819:PsiDirectoryNode" />
+              <item name="m10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602159185861" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602575009373" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="other.programmer.m9" />
       <recent name="kakao.p2020.junior" />
       <recent name="kakao.p2020" />
     </key>
@@ -268,13 +286,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p4">
+  <component name="RunManager" selected="Application.p3">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.programmer.p1" />
+      <option name="MAIN_CLASS_NAME" value="other.programmer.m10.p1" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.programmer.*" />
+          <option name="PATTERN" value="other.programmer.m10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,7 +305,20 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.programmer.*" />
+          <option name="PATTERN" value="other.programmer.m10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.programmer.m9.p3" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.programmer.m9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +327,11 @@
       </method>
     </configuration>
     <configuration name="p4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.programmer.p4" />
+      <option name="MAIN_CLASS_NAME" value="other.programmer.m10.p4" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.programmer.*" />
+          <option name="PATTERN" value="other.programmer.m10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,26 +352,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q1725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.division.q1725" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.division.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p3" />
         <item itemvalue="Application.p4" />
         <item itemvalue="Application.p2" />
         <item itemvalue="Application.p1" />
         <item itemvalue="Application.q1074" />
-        <item itemvalue="Application.q1725" />
       </list>
     </recent_temporary>
   </component>
@@ -367,10 +385,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="230" y="86" width="1552" height="820" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.24865952" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.252349" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -379,13 +396,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.24585636" side_tool="true" weight="0.1852349" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.71428573" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6467828" weight="0.1833811" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6463087" visible="true" weight="0.18297872" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4644772" weight="0.52292264" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35321715" side_tool="true" visible="true" weight="0.18195051" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.3766756" weight="0.43988684" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35369128" side_tool="true" visible="true" weight="0.18297872" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.37600535" weight="0.45123726" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49732262" weight="0.5126836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -446,13 +463,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backjun/division/q10830.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kakao/Kakao1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -744,6 +754,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/programmer/p2.java" />
     <entry file="file://$PROJECT_DIR$/src/backjun/division/q1074.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -765,10 +776,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/programmer/p3.java">
+    <entry file="file://$PROJECT_DIR$/src/other/programmer/m10/p1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/programmer/m10/p3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/programmer/m10/p4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -799,27 +827,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/programmer/p4.java">
+    <entry file="file://$PROJECT_DIR$/src/other/programmer/m9/p3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="75" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/programmer/p1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/programmer/p2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        <state relative-caret-position="279">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
         </state>
       </provider>
     </entry>

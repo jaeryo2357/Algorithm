@@ -1,4 +1,4 @@
-package other.programmer;
+package other.programmer.m10;
 
 
 public class p3 {
