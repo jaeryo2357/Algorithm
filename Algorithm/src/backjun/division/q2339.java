@@ -40,6 +40,7 @@ public class q2339 {
 
         int answer = 0;
 
+        //불순물 위치를 저장하려 했으나 메모리 초과 발생
         for (int x = startX; x < endX; x++) {
             for (int y = startY; y < endY; y++) {
               if (board[y][x] == 1) {
