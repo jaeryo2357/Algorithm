@@ -194,8 +194,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
-    <option name="y" value="61" />
+    <option name="x" value="130" />
+    <option name="y" value="60" />
     <option name="width" value="1750" />
     <option name="height" value="930" />
   </component>
@@ -253,7 +253,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603086062642" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Kotlin/Doit_kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
