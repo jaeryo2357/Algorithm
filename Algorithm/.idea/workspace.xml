@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/dynamic/q11727.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/programmer/m11/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/dynamic/q1699.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -19,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q2294.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q2193.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,11 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q11727.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="56" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q1699.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -137,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/backjun/division/q10816.java" />
         <option value="$PROJECT_DIR$/src/backjun/binaryseach/q10816.java" />
         <option value="$PROJECT_DIR$/src/backjun/heap/q1927.java" />
         <option value="$PROJECT_DIR$/src/backjun/dynamic/q11066.java" />
@@ -188,12 +186,13 @@
         <option value="$PROJECT_DIR$/src/backjun/dynamic/q11726.java" />
         <option value="$PROJECT_DIR$/src/other/programmer/m11/p1.java" />
         <option value="$PROJECT_DIR$/src/backjun/dynamic/q11727.java" />
+        <option value="$PROJECT_DIR$/src/backjun/dynamic/q1699.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="391" />
-    <option name="y" value="60" />
+    <option name="x" value="822" />
+    <option name="y" value="35" />
     <option name="width" value="1750" />
     <option name="height" value="1094" />
   </component>
@@ -280,7 +279,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604659192986" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604662754039" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -290,11 +289,11 @@
       <recent name="kakao.p2020" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="backjun.dynamic" />
       <recent name="other.programmer.m11" />
       <recent name="winter" />
       <recent name="nhn" />
       <recent name="other.programmer" />
-      <recent name="kakao.p2020.junior.p2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q11727">
+  <component name="RunManager" selected="Application.q1699">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.programmer.m11.p1" />
       <module name="Algorithm" />
@@ -349,6 +348,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q1699" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dynamic.q1699" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q2193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.dynamic.q2193" />
       <module name="Algorithm" />
@@ -362,26 +374,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2294" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dynamic.q2294" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.dynamic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q1699" />
         <item itemvalue="Application.q11727" />
         <item itemvalue="Application.p1" />
         <item itemvalue="Application.q11726" />
         <item itemvalue="Application.q2193" />
-        <item itemvalue="Application.q2294" />
       </list>
     </recent_temporary>
   </component>
@@ -408,27 +407,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="202" y="149" width="1400" height="882" extended-state="0" />
-    <editor active="true" />
+    <frame x="658" y="28" width="1400" height="875" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75414366" visible="true" weight="0.2761194" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75185186" visible="true" weight="0.2761194" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.24610052" side_tool="true" weight="0.1852349" />
+      <window_info id="Structure" order="5" sideWeight="0.24814814" side_tool="true" visible="true" weight="0.2761194" />
       <window_info id="Favorites" order="6" sideWeight="0.24585636" side_tool="true" weight="0.1852349" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.71428573" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6328358" weight="0.31932774" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.45820895" weight="0.53565216" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6283582" visible="true" weight="0.2722372" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.457047" weight="0.3531915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32994923" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.36716416" side_tool="true" visible="true" weight="0.25367156" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.36492538" weight="0.05042017" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.37164178" side_tool="true" visible="true" weight="0.2722372" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.3641791" weight="0.48247978" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49732262" weight="0.5126836" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49626866" weight="0.51212937" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,13 +491,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11153">
-          <caret line="643" column="22" selection-start-line="643" selection-start-column="22" selection-end-line="643" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3382">
@@ -883,8 +874,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q11727.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="56" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjun/dynamic/q1699.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>
