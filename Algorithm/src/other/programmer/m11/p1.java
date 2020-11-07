@@ -1,33 +1,81 @@
 package other.programmer.m11;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class p1 {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(Arrays.toString(solution.solution("01110")));
+        int[][] answer = solution.solution(4, true);
+
+        for (int i = 0; i < answer.length; i++) {
+            for (int j = 0; j < answer.length; j++) {
+                System.out.print(answer[i][j] + " ");
+            }
+            System.out.println();
+        }
     }
 
+    // 3 5 6
+    // 9 2 7
+    // 4 1 8
+
+    //
     static class Solution {
 
-        public int[] solution(String s) {
-            int[] answer = new int[2];
+        public int[][] solution(int n, boolean horizontal) {
 
-            while(!s.equals("1")) {
-                int length = s.length();
-                s = s.replaceAll("0", "");
-                answer[1] += length - s.length();
-                StringBuilder builder = new StringBuilder();
-                int size = s.length();
-                while(size > 0) {
-                    builder.append(size % 2);
-                    size /= 2;
+            int[][] answer = new int[n][n];
+
+            int y = 0;
+            int x = 0;
+
+            boolean crossUp = !horizontal;
+            if (horizontal) {
+                x = 1;
+            } else {
+                y = 1;
+            }
+
+            int time = 1;
+            while(x <= n - 1 || y <= n - 1) {
+
+                answer[y][x] = time;
+
+                if (x == n - 1 && y == n - 1) {
+                    break;
                 }
 
-                s = builder.toString();
+                if ((crossUp && (y - 1 < 0 || x + 1 >= n) ) || (!crossUp && (x - 1 < 0 || y + 1 >= n))) {
+                    if (crossUp) {
+                        if (x + 1 <= n - 1) {
+                            x += 1;
+                        } else {
+                            y += 1;
+                        }
+                    } else {
+                        if (y + 1 <= n - 1) {
+                            y += 1;
+                        } else {
+                            x += 1;
+                        }
+                    }
 
-                answer[0]++;
+                    time += 1;
+
+                    crossUp = !crossUp;
+                } else {
+                    if (crossUp) {
+                        x += 1;
+                        y -= 1;
+                    } else {
+                        x -= 1;
+                        y += 1;
+                    }
+
+                    time += 2;
+                }
             }
+
             return answer;
         }
     }
