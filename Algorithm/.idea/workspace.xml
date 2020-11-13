@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/dynamic/q11055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q2304.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,20 +52,7 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q11055">
-    <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.programmer.m11.p1" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.programmer.m11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.q2304">
     <configuration name="q11052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.division.q11052" />
       <module name="Algorithm" />
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q2304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q2304" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q2304" />
         <item itemvalue="Application.q11055" />
         <item itemvalue="Application.q16500" />
         <item itemvalue="Application.q11057" />
         <item itemvalue="Application.q11052" />
-        <item itemvalue="Application.p1" />
       </list>
     </recent_temporary>
   </component>
@@ -152,38 +152,42 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="672" height="368" key="GridCell.Tab.0.bottom" timestamp="1605065172517">
+    <state x="813" y="217" key="FileChooserDialogImpl" timestamp="1605065800783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605065172517" />
-    <state width="672" height="368" key="GridCell.Tab.0.center" timestamp="1605065172502">
+    <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605065800783" />
+    <state width="639" height="312" key="GridCell.Tab.0.bottom" timestamp="1605263379140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605065172502" />
-    <state width="672" height="368" key="GridCell.Tab.0.left" timestamp="1605065172502">
+    <state width="639" height="312" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605263379140" />
+    <state width="639" height="312" key="GridCell.Tab.0.center" timestamp="1605263379140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605065172502" />
-    <state width="672" height="368" key="GridCell.Tab.0.right" timestamp="1605065172502">
+    <state width="639" height="312" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605263379140" />
+    <state width="639" height="312" key="GridCell.Tab.0.left" timestamp="1605263379140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605065172502" />
-    <state width="672" height="368" key="GridCell.Tab.1.bottom" timestamp="1605065174954">
+    <state width="639" height="312" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605263379140" />
+    <state width="639" height="312" key="GridCell.Tab.0.right" timestamp="1605263379140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605065174954" />
-    <state width="672" height="368" key="GridCell.Tab.1.center" timestamp="1605065174954">
+    <state width="639" height="312" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605263379140" />
+    <state width="478" height="209" key="GridCell.Tab.1.bottom" timestamp="1605263194282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605065174954" />
-    <state width="672" height="368" key="GridCell.Tab.1.left" timestamp="1605065174954">
+    <state width="478" height="209" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605263194282" />
+    <state width="478" height="209" key="GridCell.Tab.1.center" timestamp="1605263194282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605065174954" />
-    <state width="672" height="368" key="GridCell.Tab.1.right" timestamp="1605065174954">
+    <state width="478" height="209" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605263194282" />
+    <state width="478" height="209" key="GridCell.Tab.1.left" timestamp="1605263194282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="368" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605065174954" />
+    <state width="478" height="209" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605263194282" />
+    <state width="478" height="209" key="GridCell.Tab.1.right" timestamp="1605263194282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="478" height="209" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605263194282" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,6 +231,16 @@
           <url>file://$PROJECT_DIR$/src/backjun/dynamic/q11055.java</url>
           <line>34</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backjun/dfs/q2304.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backjun/dfs/q2304.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
