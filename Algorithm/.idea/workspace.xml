@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/binaryseach/q2512.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/binaryseach/q2343.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,7 +52,7 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q2512">
+  <component name="RunManager" selected="Application.q2343">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kakao.recommend.p1" />
       <module name="Algorithm" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q16500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dynamic.q16500" />
+    <configuration name="q2304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q2304" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjun.dynamic.*" />
+          <option name="PATTERN" value="backjun.dfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q2304" />
+    <configuration name="q2343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.binaryseach.q2343" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjun.dfs.*" />
+          <option name="PATTERN" value="backjun.binaryseach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q2343" />
         <item itemvalue="Application.q2512" />
         <item itemvalue="Application.p1" />
         <item itemvalue="Application.q2304" />
         <item itemvalue="Application.q11055" />
-        <item itemvalue="Application.q16500" />
       </list>
     </recent_temporary>
   </component>
@@ -152,42 +152,42 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state x="813" y="217" key="FileChooserDialogImpl" timestamp="1605065800783">
+    <state x="813" y="217" key="FileChooserDialogImpl" timestamp="1605343210660">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605065800783" />
-    <state width="665" height="191" key="GridCell.Tab.0.bottom" timestamp="1605341542929">
+    <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605343210660" />
+    <state width="507" height="318" key="GridCell.Tab.0.bottom" timestamp="1605420744236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="665" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605341542929" />
-    <state width="665" height="191" key="GridCell.Tab.0.center" timestamp="1605341542929">
+    <state width="507" height="318" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
+    <state width="507" height="318" key="GridCell.Tab.0.center" timestamp="1605420744236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="665" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605341542929" />
-    <state width="665" height="191" key="GridCell.Tab.0.left" timestamp="1605341542929">
+    <state width="507" height="318" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
+    <state width="507" height="318" key="GridCell.Tab.0.left" timestamp="1605420744236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="665" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605341542929" />
-    <state width="665" height="191" key="GridCell.Tab.0.right" timestamp="1605341542929">
+    <state width="507" height="318" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
+    <state width="507" height="318" key="GridCell.Tab.0.right" timestamp="1605420744236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="665" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605341542929" />
-    <state width="714" height="492" key="GridCell.Tab.1.bottom" timestamp="1605340967169">
+    <state width="507" height="318" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
+    <state width="507" height="318" key="GridCell.Tab.1.bottom" timestamp="1605420745548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="714" height="492" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605340967169" />
-    <state width="714" height="492" key="GridCell.Tab.1.center" timestamp="1605340967169">
+    <state width="507" height="318" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
+    <state width="507" height="318" key="GridCell.Tab.1.center" timestamp="1605420745548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="714" height="492" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605340967169" />
-    <state width="714" height="492" key="GridCell.Tab.1.left" timestamp="1605340967169">
+    <state width="507" height="318" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
+    <state width="507" height="318" key="GridCell.Tab.1.left" timestamp="1605420745548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="714" height="492" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605340967169" />
-    <state width="714" height="492" key="GridCell.Tab.1.right" timestamp="1605340967169">
+    <state width="507" height="318" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
+    <state width="507" height="318" key="GridCell.Tab.1.right" timestamp="1605420745548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="714" height="492" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605340967169" />
+    <state width="507" height="318" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1605337926879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -240,6 +240,11 @@
           <url>file://$PROJECT_DIR$/src/backjun/dfs/q2304.java</url>
           <line>31</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backjun/binaryseach/q2343.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
