@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/binaryseach/q2343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/binaryseach/q6236.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,26 +52,13 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q2343">
+  <component name="RunManager" selected="Application.q6236">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kakao.recommend.p1" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kakao.recommend.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q11055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dynamic.q11055" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q6236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.binaryseach.q6236" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.binaryseach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q6236" />
         <item itemvalue="Application.q2343" />
         <item itemvalue="Application.q2512" />
         <item itemvalue="Application.p1" />
         <item itemvalue="Application.q2304" />
-        <item itemvalue="Application.q11055" />
       </list>
     </recent_temporary>
   </component>
@@ -156,42 +156,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605343210660" />
-    <state width="507" height="318" key="GridCell.Tab.0.bottom" timestamp="1605420744236">
+    <state width="658" height="382" key="GridCell.Tab.0.bottom" timestamp="1605529955793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
-    <state width="507" height="318" key="GridCell.Tab.0.center" timestamp="1605420744236">
+    <state width="658" height="382" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605529955793" />
+    <state width="658" height="382" key="GridCell.Tab.0.center" timestamp="1605529955793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
-    <state width="507" height="318" key="GridCell.Tab.0.left" timestamp="1605420744236">
+    <state width="658" height="382" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605529955793" />
+    <state width="658" height="382" key="GridCell.Tab.0.left" timestamp="1605529955793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
-    <state width="507" height="318" key="GridCell.Tab.0.right" timestamp="1605420744236">
+    <state width="658" height="382" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605529955793" />
+    <state width="658" height="382" key="GridCell.Tab.0.right" timestamp="1605529955793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605420744236" />
-    <state width="507" height="318" key="GridCell.Tab.1.bottom" timestamp="1605420745548">
+    <state width="658" height="382" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605529955793" />
+    <state width="507" height="156" key="GridCell.Tab.1.bottom" timestamp="1605421131637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
-    <state width="507" height="318" key="GridCell.Tab.1.center" timestamp="1605420745548">
+    <state width="507" height="156" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605421131637" />
+    <state width="507" height="156" key="GridCell.Tab.1.center" timestamp="1605421131637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
-    <state width="507" height="318" key="GridCell.Tab.1.left" timestamp="1605420745548">
+    <state width="507" height="156" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605421131637" />
+    <state width="507" height="156" key="GridCell.Tab.1.left" timestamp="1605421131637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
-    <state width="507" height="318" key="GridCell.Tab.1.right" timestamp="1605420745548">
+    <state width="507" height="156" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605421131637" />
+    <state width="507" height="156" key="GridCell.Tab.1.right" timestamp="1605421131637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="318" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605420745548" />
+    <state width="507" height="156" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605421131637" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1605337926879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1605337926879" />
+    <state x="546" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1605529763324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605529763324" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
