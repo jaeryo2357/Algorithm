@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/list/q1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/list/q2840.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,7 +52,20 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q1158">
+  <component name="RunManager" selected="Application.q2840">
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="winter.P1" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="winter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.list.q1158" />
       <module name="Algorithm" />
@@ -92,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.binaryseach.q2343" />
+    <configuration name="q2840" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.list.q2840" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjun.binaryseach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q6236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.binaryseach.q6236" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.binaryseach.*" />
+          <option name="PATTERN" value="backjun.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q2840" />
+        <item itemvalue="Application.P1" />
         <item itemvalue="Application.q1158" />
         <item itemvalue="Application.q15732" />
         <item itemvalue="Application.q16434" />
-        <item itemvalue="Application.q6236" />
-        <item itemvalue="Application.q2343" />
       </list>
     </recent_temporary>
   </component>
@@ -160,46 +160,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605343210660" />
-    <state width="650" height="118" key="GridCell.Tab.0.bottom" timestamp="1605767329783">
+    <state width="648" height="144" key="GridCell.Tab.0.bottom" timestamp="1605772808252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="650" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605767329783" />
-    <state width="650" height="118" key="GridCell.Tab.0.center" timestamp="1605767329782">
+    <state width="648" height="144" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605772808252" />
+    <state width="648" height="144" key="GridCell.Tab.0.center" timestamp="1605772808251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="650" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605767329782" />
-    <state width="650" height="118" key="GridCell.Tab.0.left" timestamp="1605767329782">
+    <state width="648" height="144" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605772808251" />
+    <state width="648" height="144" key="GridCell.Tab.0.left" timestamp="1605772808251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="650" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605767329782" />
-    <state width="650" height="118" key="GridCell.Tab.0.right" timestamp="1605767329782">
+    <state width="648" height="144" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605772808251" />
+    <state width="648" height="144" key="GridCell.Tab.0.right" timestamp="1605772808251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="650" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605767329782" />
-    <state width="506" height="333" key="GridCell.Tab.1.bottom" timestamp="1605684341523">
+    <state width="648" height="144" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605772808251" />
+    <state width="506" height="2" key="GridCell.Tab.1.bottom" timestamp="1605768258991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="506" height="333" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605684341523" />
-    <state width="506" height="333" key="GridCell.Tab.1.center" timestamp="1605684341523">
+    <state width="506" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605768258991" />
+    <state width="506" height="2" key="GridCell.Tab.1.center" timestamp="1605768258991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="506" height="333" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605684341523" />
-    <state width="506" height="333" key="GridCell.Tab.1.left" timestamp="1605684341523">
+    <state width="506" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605768258991" />
+    <state width="506" height="2" key="GridCell.Tab.1.left" timestamp="1605768258991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="506" height="333" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605684341523" />
-    <state width="506" height="333" key="GridCell.Tab.1.right" timestamp="1605684341523">
+    <state width="506" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605768258991" />
+    <state width="506" height="2" key="GridCell.Tab.1.right" timestamp="1605768258991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="506" height="333" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605684341523" />
+    <state width="506" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605768258991" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1605337926879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1605337926879" />
-    <state x="546" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1605529763324">
+    <state x="546" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1605768239390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="546" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605529763324" />
+    <state x="546" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605768239390" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
