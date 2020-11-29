@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q1743.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,7 +52,7 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q1012">
+  <component name="RunManager" selected="Application.q1743">
     <configuration name="q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.dfs.q1012" />
       <module name="Algorithm" />
@@ -92,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q1743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q1743" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q3078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.queue.q3078" />
       <module name="Algorithm" />
@@ -105,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q5076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.stack.q5076" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q1743" />
         <item itemvalue="Application.q1012" />
         <item itemvalue="Application.q11724" />
         <item itemvalue="Application.q3078" />
         <item itemvalue="Application.q10845" />
-        <item itemvalue="Application.q5076" />
       </list>
     </recent_temporary>
   </component>
@@ -160,22 +160,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605343210660" />
-    <state width="886" height="2" key="GridCell.Tab.0.bottom" timestamp="1606482555127">
+    <state width="884" height="659" key="GridCell.Tab.0.bottom" timestamp="1606659833640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="886" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606482555127" />
-    <state width="886" height="2" key="GridCell.Tab.0.center" timestamp="1606482555127">
+    <state width="884" height="659" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606659833640" />
+    <state width="884" height="659" key="GridCell.Tab.0.center" timestamp="1606659833640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="886" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606482555127" />
-    <state width="886" height="2" key="GridCell.Tab.0.left" timestamp="1606482555127">
+    <state width="884" height="659" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606659833640" />
+    <state width="884" height="659" key="GridCell.Tab.0.left" timestamp="1606659833640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="886" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606482555127" />
-    <state width="886" height="2" key="GridCell.Tab.0.right" timestamp="1606482555127">
+    <state width="884" height="659" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606659833640" />
+    <state width="884" height="659" key="GridCell.Tab.0.right" timestamp="1606659833640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="886" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606482555127" />
+    <state width="884" height="659" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606659833640" />
     <state width="703" height="521" key="GridCell.Tab.1.bottom" timestamp="1606289996453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -284,14 +284,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/backjun/dfs/q1012.java</url>
-          <line>8</line>
-          <properties class="backjun.dfs.q1012" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
