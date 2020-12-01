@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q10026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q2583.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,9 +53,9 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q2667">
-    <configuration name="q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q1012" />
+  <component name="RunManager" selected="Application.q10026">
+    <configuration name="q10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q10026" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q11724" />
+    <configuration name="q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q1012" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -92,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q2583" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q2583" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="q2667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.dfs.q2667" />
       <module name="Algorithm" />
@@ -105,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q3078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.queue.q3078" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q10026" />
+        <item itemvalue="Application.q2583" />
         <item itemvalue="Application.q2667" />
         <item itemvalue="Application.q1743" />
         <item itemvalue="Application.q1012" />
-        <item itemvalue="Application.q11724" />
-        <item itemvalue="Application.q3078" />
       </list>
     </recent_temporary>
   </component>
@@ -160,22 +161,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605343210660" />
-    <state width="884" height="450" key="GridCell.Tab.0.bottom" timestamp="1606664213090">
+    <state width="882" height="617" key="GridCell.Tab.0.bottom" timestamp="1606803736762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="884" height="450" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606664213090" />
-    <state width="884" height="450" key="GridCell.Tab.0.center" timestamp="1606664213089">
+    <state width="882" height="617" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606803736762" />
+    <state width="882" height="617" key="GridCell.Tab.0.center" timestamp="1606803736762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="884" height="450" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606664213089" />
-    <state width="884" height="450" key="GridCell.Tab.0.left" timestamp="1606664213089">
+    <state width="882" height="617" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606803736762" />
+    <state width="882" height="617" key="GridCell.Tab.0.left" timestamp="1606803736762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="884" height="450" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606664213089" />
-    <state width="884" height="450" key="GridCell.Tab.0.right" timestamp="1606664213090">
+    <state width="882" height="617" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606803736762" />
+    <state width="882" height="617" key="GridCell.Tab.0.right" timestamp="1606803736762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="884" height="450" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606664213090" />
+    <state width="882" height="617" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606803736762" />
     <state width="703" height="521" key="GridCell.Tab.1.bottom" timestamp="1606289996453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
