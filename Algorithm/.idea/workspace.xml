@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fdb972-d262-45e0-884f-bfc91d4bfb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q11403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjun/dfs/q2468.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RxJava/.idea/vcs.xml" beforeDir="false" />
     </list>
@@ -52,7 +52,7 @@
       <recent name="other.programmer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q11403">
+  <component name="RunManager" selected="Application.q2468">
     <configuration name="q10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.dfs.q10026" />
       <module name="Algorithm" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q1743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q1743" />
+    <configuration name="q2468" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.dfs.q2468" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q2468" />
         <item itemvalue="Application.q11403" />
         <item itemvalue="Application.q10026" />
         <item itemvalue="Application.q2583" />
         <item itemvalue="Application.q2667" />
-        <item itemvalue="Application.q1743" />
       </list>
     </recent_temporary>
   </component>
@@ -160,22 +160,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="813" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605343210660" />
-    <state width="891" height="542" key="GridCell.Tab.0.bottom" timestamp="1606803816043">
+    <state width="890" height="396" key="GridCell.Tab.0.bottom" timestamp="1606805213910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="891" height="542" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606803816043" />
-    <state width="891" height="542" key="GridCell.Tab.0.center" timestamp="1606803816043">
+    <state width="890" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606805213910" />
+    <state width="890" height="396" key="GridCell.Tab.0.center" timestamp="1606805213910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="891" height="542" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606803816043" />
-    <state width="891" height="542" key="GridCell.Tab.0.left" timestamp="1606803816043">
+    <state width="890" height="396" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606805213910" />
+    <state width="890" height="396" key="GridCell.Tab.0.left" timestamp="1606805213910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="891" height="542" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606803816043" />
-    <state width="891" height="542" key="GridCell.Tab.0.right" timestamp="1606803816043">
+    <state width="890" height="396" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606805213910" />
+    <state width="890" height="396" key="GridCell.Tab.0.right" timestamp="1606805213910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="891" height="542" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606803816043" />
+    <state width="890" height="396" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606805213910" />
     <state width="703" height="521" key="GridCell.Tab.1.bottom" timestamp="1606289996453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
