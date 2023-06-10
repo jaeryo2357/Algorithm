@@ -13,10 +13,13 @@ Tips.
 
 #### 투 포인트
 ```
-   2개의 변수 startIndex, endIndex를 조건에 따라 증가시키며 특정 구간의 합을 계산할 때
+   2개의 변수 startIndex, endIndex를 조건에 따라 증가시키며 특정 구간의 합을 계산할 때,
+    
+   조건: 배열의 연속되는 수는 **정렬되어 있어야 함** (시간 복잡도 주의)
 ```
 
 [q2018번 : 수들의 합 5](https://www.acmicpc.net/problem/2018)
+[q1940번: 주몽](https://www.acmicpc.net/problem/1940)
 
 ---
 ### 숫자 공식
