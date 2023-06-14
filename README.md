@@ -37,4 +37,6 @@ Tips.
 
 **나머지 성질**: `(A+B+C)%M = (A%M + B%M + C%M) % M`
 
-**nCm** (경우의 수, n개 중 m개를 뽑는 경우의 수): `(n) * (n - 1) / 2`
+**nC2** (조합, n개 중 2개를 뽑는 경우의 수): `(n) * (n - 1) / 2` 
+
+참고- https://whitehairhan.tistory.com/367
