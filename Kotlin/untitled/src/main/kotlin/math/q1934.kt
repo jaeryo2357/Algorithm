@@ -1,4 +1,4 @@
-package map
+package math
 
 fun main() = with(System.out.bufferedWriter()) {
     val t = readln().toInt()
@@ -10,7 +10,7 @@ fun main() = with(System.out.bufferedWriter()) {
     close()
 }
 
-fun gcd(a: Int, b: Int): Int {
+private fun gcd(a: Int, b: Int): Int {
     return if  (b == 0) a
     else gcd(b,a % b)
 }
