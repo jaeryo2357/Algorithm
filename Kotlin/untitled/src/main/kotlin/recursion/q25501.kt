@@ -1,6 +1,6 @@
 package recursion
 
-var count = 0
+private var count = 0
 
 fun recursion(s: String, l: Int, r: Int): Int {
     count++
