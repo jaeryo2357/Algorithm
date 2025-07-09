@@ -34,7 +34,7 @@ fun main() {
     writer.close()
 }
 
-fun dijkstra(
+private fun dijkstra(
     start: Int,
     end: Int,
     lines: Array<LinkedList<Pair<Int, Int>>>
